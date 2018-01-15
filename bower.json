@@ -1,0 +1,25 @@
+{
+  "name": "MC-Portal",
+  "version": "1.0.0",
+  "authors": [
+    "Rody Molenaar <rody.molenaar@xtrada.nl>"
+  ],
+  "description": "A Free portal page for Minecraft servers.",
+  "keywords": [
+    "free",
+    "minecraft",
+    "portal",
+    "portalpage"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
